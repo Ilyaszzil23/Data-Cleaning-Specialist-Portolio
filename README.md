@@ -15,3 +15,12 @@ In my role as a Part-time Assistant Accountant, I regularly work with financial 
 As a freelancer, my priority is to deliver reliable, high-quality work that simplifies your processes and supports better decision-making.
 
 
+My CV in 
+
+This is a repository to showcase skills, share projects and track my progress in Data & Processing Specialist related topics.
+
+## Table of contents
+
+- [About](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/tree/main/README.md#About)
+
+- [Portfolio Projects](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/tree/main/README.md#Portfolio-Projects)
