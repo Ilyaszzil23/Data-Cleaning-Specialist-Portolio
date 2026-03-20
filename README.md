@@ -120,7 +120,7 @@ Final step:
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1bf7fa31-fdd6-4b1b-9e39-217f5d9a83e8" />
 
 
-Result:
+Result: <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5d8e965d-9390-4608-aee4-1a4a6ba8438c" />
 
 
 
