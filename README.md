@@ -116,11 +116,12 @@ Step 3:
 Step 4:
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8acdb151-7296-49b5-88f9-2f4a88c582ea" />
 
-Step 5:
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/61df022e-1ac0-4bcc-a509-87a0ee4caa29" />
-
 Final step:
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/eac2782a-7457-438d-af27-97d84dc09037" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1bf7fa31-fdd6-4b1b-9e39-217f5d9a83e8" />
+
+
+Result:
+
 
 
 
