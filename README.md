@@ -101,6 +101,8 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 
+**Raw Code:** ['Raw-data-(messy-Version).csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Raw%20data%20(Messy%20Version).csv)
+
 
 
 
