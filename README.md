@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
   
-      - Data Organisation & Management
+      - [Data Organisation & Management](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Data-Organisation-&-Management)
 
         
       - Formatting & Presentation
@@ -59,7 +59,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 In this section I will list data and processing specalist projects briefly describing the technology stack and data technique used to solve cases.
 
-[Data Organisation & Management](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Data-Organisation-&-Management)
+Data Organisation & Management
 
 In this example, I structured a dataset of income and expenses into a clean, logical format:
 
