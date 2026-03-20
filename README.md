@@ -59,6 +59,18 @@ This is a repository to showcase skills, share projects and track my progress in
 
 In this section I will list data and processing specalist projects briefly describing the technology stack and data technique used to solve cases.
 
+
+
+
+
+
+
+
+
+
+
+## Spreadsheet Techniques in Excel (Sample Financial Data Project)
+
 Data Organisation & Management
 
 In this example, I structured a dataset of income and expenses into a clean, logical format:
@@ -74,9 +86,6 @@ In this example, I structured a dataset of income and expenses into a clean, log
 This approach ensures that messy or unstructured data becomes reliable, easy to manage, and ready for analysis.
 
 
-
-
-## Spreadsheet Techniques in Excel (Sample Financial Data Project)
 
 
 
