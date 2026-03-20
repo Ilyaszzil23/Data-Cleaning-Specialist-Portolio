@@ -51,5 +51,5 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 
-- [Contact]([About](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Contact)
+- [Contact](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Contact)
 
