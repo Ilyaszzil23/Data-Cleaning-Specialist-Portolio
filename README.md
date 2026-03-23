@@ -202,7 +202,7 @@ Next, a conditional formula is used to simplify the process. By entering a refer
 
 Finally, the formula uses a combination of absolute and relative cell references. The **$**  symbol locks either the row or the column (e.g., **$H12** fixes the column, while **H$12** fixes the row), allowing the formula to be copied across the table without breaking. This ensures that each value is placed correctly based on the matching number and column header.
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/27ec07c1-c904-416b-ae9d-1b14c6870345" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/747a786b-d920-4ccb-8b94-564c69065769" />
 
 
 # Education
