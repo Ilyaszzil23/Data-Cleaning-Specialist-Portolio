@@ -25,12 +25,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Portfolio Projects](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Portfolio-Projects)
 
-  - Python:
-    
-      - NumPy
-
+  - Pandas - Cleaning data:
   
-      - Pandas
+      - [Global Demographic Data Cleaning (1960–2013)](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Global-Demographic-Data-Cleaning-(1960–2013))  
+    
 
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
@@ -59,8 +57,6 @@ In this section I will list data and processing specalist projects briefly descr
 
 
 
-
-
 ## Global Demographic Data Cleaning (1960–2013)
 
 **Goal statement:** I cleaned and standardised global demographic data to ensure reliable analysis of life expectancy and fertility rates across countries and regions.
@@ -83,15 +79,6 @@ This analysis aims to support the World bank's understanding of global health an
 **Skills:** Data Cleaning, Data Preprocessing, Data Validation, Extract-Transform-Load (ETL), Data Standardisation
 
 **Tools:** Jupyter Notebook, Visual Studio Code (offline), Matplotib, Seaborn, Python (Pandas & Numpy), Excel
-
-
-
-
-
-
-
-
-
 
 
 
