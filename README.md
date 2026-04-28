@@ -15,7 +15,7 @@ In my role as a Part-time Assistant Accountant, I regularly work with financial 
 As a freelancer, my priority is to deliver reliable, high-quality work that simplifies your processes and supports better decision-making.
 
 
-My CV in 
+My CV in [pdf](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Ilyas%20(Freelance%20Data%20Cleaning%20)%20CV.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data cleaning Specialist related topics.
 
