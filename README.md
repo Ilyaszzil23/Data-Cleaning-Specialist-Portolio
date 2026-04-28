@@ -179,13 +179,9 @@ The dataset is now clean, structured, and easy to analyse. This demonstrates my 
 This project also demonstrates best practices to maintain accuracy and prevent errors:
 
 - Avoiding hard-coded values inside formulas
-
 - Ensuring consistency in data entry (dates, categories, formats)
-
 - Minimising duplication and keeping datasets clean
-
 - Using formulas (e.g. totals, summaries) instead of manual calculations
-
 - These techniques are essential when working with financial data, where accuracy and reliability are critical.
 
 
