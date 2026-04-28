@@ -61,6 +61,28 @@ In this section I will list data and processing specalist projects briefly descr
 
 
 
+## Global Demographic Data Cleaning (1960–2013)
+
+**Goal statement:** I cleaned and standardised global demographic data to ensure reliable analysis of life expectancy and fertility rates across countries and regions.
+
+
+The project focuses on:
+
+  - Handling missing and inconsistent data
+  - Standardising country and regional classifications
+  - Building reproducible data cleaning workflows in Python
+  - Preparing analysis-ready datasets for accurate trend validation
+
+This analysis aims to support the World bank's understanding of global health and demographic shifts.
+
+**Code:** ['World Trends.ipynb'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/World%20Trends.ipynb)
+
+**Raw Data:** ['Demographic-Data World trends.csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Demographic-Data%20World%20trends.csv)
+
+
+**Skills:** Data Cleaning, Data Preprocessing, Data Validation, Extract-Transform-Load (ETL), Data Standardisation
+
+**Tools:** Jupyter Notebook, Visual Studio Code (offline), Matplotib, Seaborn, Python (Pandas & Numpy, Excel
 
 
 
