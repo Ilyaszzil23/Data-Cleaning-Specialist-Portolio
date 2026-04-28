@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of contents
 
-- [About](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#About)
+- [About](#About)
 
 - [Portfolio Projects](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#Portfolio-Projects)
 
