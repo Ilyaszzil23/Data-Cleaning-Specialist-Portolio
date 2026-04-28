@@ -82,7 +82,7 @@ This analysis aims to support the World bank's understanding of global health an
 
 **Skills:** Data Cleaning, Data Preprocessing, Data Validation, Extract-Transform-Load (ETL), Data Standardisation
 
-**Tools:** Jupyter Notebook, Visual Studio Code (offline), Matplotib, Seaborn, Python (Pandas & Numpy, Excel
+**Tools:** Jupyter Notebook, Visual Studio Code (offline), Matplotib, Seaborn, Python (Pandas & Numpy), Excel
 
 
 
