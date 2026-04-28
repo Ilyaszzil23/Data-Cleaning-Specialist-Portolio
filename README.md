@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - Pandas - Cleaning data:
   
-      - [Global Demographic Data Cleaning (1960–2013)](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#Section_1:))
+      - [Global Demographic Data Cleaning (1960–2013)](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#Section_1:)
     
 
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
