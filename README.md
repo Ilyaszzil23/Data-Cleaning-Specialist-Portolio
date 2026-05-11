@@ -245,11 +245,7 @@ To support my academic background, I have also completed several certifications 
 - [Business Analysis fundamental (Apr 2024)](https://www.udemy.com/certificate/UC-9b0193bd-a00b-48ee-843a-67d8fe2dfd1e/)
 
 
-# Contact
 
-- LinkedIn: [Ilyas88](https://www.linkedin.com/in/ilyas88)
-- Email:  ilyasM23@outlook.com
-- Upwork: 
 
 
 
